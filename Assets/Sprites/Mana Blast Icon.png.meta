@@ -1,0 +1,334 @@
+fileFormatVersion: 2
+guid: 32faa35cc468045b88a0b249d837360b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3448788227266823609
+    second: Mana Blast Icon_0
+  - first:
+      213: -6753960220736116595
+    second: Mana Blast Icon_1
+  - first:
+      213: 7083843988094954143
+    second: Mana Blast Icon_2
+  - first:
+      213: 8932738353161481207
+    second: Mana Blast Icon_3
+  - first:
+      213: -9096007563181576733
+    second: Mana Blast Icon_4
+  - first:
+      213: -682644866690940311
+    second: Mana Blast Icon_5
+  - first:
+      213: 3284822283948893711
+    second: Mana Blast Icon_6
+  - first:
+      213: -6958461183071145910
+    second: Mana Blast Icon_7
+  - first:
+      213: 9016431766160569106
+    second: Mana Blast Icon_8
+  - first:
+      213: -5089893295918460186
+    second: Mana Blast Icon_9
+  - first:
+      213: -3529859421769295377
+    second: Mana Blast Icon_10
+  - first:
+      213: 3732165544297587763
+    second: Mana Blast Icon_11
+  - first:
+      213: -5495176021261065583
+    second: Mana Blast Icon_12
+  - first:
+      213: 534145784926402788
+    second: Mana Blast Icon_13
+  - first:
+      213: -2926374213537911244
+    second: Mana Blast Icon_14
+  - first:
+      213: 415100880520532341
+    second: Mana Blast Icon_15
+  - first:
+      213: -4448599173914633771
+    second: Mana Blast Icon_16
+  - first:
+      213: -2388982951773480348
+    second: Mana Blast Icon_17
+  - first:
+      213: -2364451368111228196
+    second: Mana Blast Icon_18
+  - first:
+      213: -7674066580415578981
+    second: Mana Blast Icon_19
+  - first:
+      213: -2949337796883944973
+    second: Mana Blast Icon_20
+  - first:
+      213: 5798567641511978631
+    second: Mana Blast Icon_21
+  - first:
+      213: -1973553008672453151
+    second: Mana Blast Icon_22
+  - first:
+      213: 5310310788465785125
+    second: Mana Blast Icon_23
+  - first:
+      213: 1758961288692773235
+    second: Mana Blast Icon_24
+  - first:
+      213: 5075320025076334280
+    second: Mana Blast Icon_25
+  - first:
+      213: -6928996975566989906
+    second: Mana Blast Icon_26
+  - first:
+      213: -23925454174765815
+    second: Mana Blast Icon_27
+  - first:
+      213: 321713253007841908
+    second: Mana Blast Icon_28
+  - first:
+      213: -8294445047685120256
+    second: Mana Blast Icon_29
+  - first:
+      213: 3757409160134186760
+    second: Mana Blast Icon_30
+  - first:
+      213: 4293490696125441572
+    second: Mana Blast Icon_31
+  - first:
+      213: -2103165309709510986
+    second: Mana Blast Icon_32
+  - first:
+      213: 4011186103282122786
+    second: Mana Blast Icon_33
+  - first:
+      213: 2686530757952111764
+    second: Mana Blast Icon_34
+  - first:
+      213: 2846589895973097320
+    second: Mana Blast Icon_35
+  - first:
+      213: 7528432520814358507
+    second: Mana Blast Icon_36
+  - first:
+      213: 6213272054718320825
+    second: Mana Blast Icon_37
+  - first:
+      213: 5531132676305001399
+    second: Mana Blast Icon_38
+  - first:
+      213: 2029238498788041407
+    second: Mana Blast Icon_39
+  - first:
+      213: -3397000189236148502
+    second: Mana Blast Icon_40
+  - first:
+      213: -3697277593274174466
+    second: Mana Blast Icon_41
+  - first:
+      213: -1180149610231261320
+    second: Mana Blast Icon_42
+  - first:
+      213: -6733513411813480990
+    second: Mana Blast Icon_43
+  - first:
+      213: 5190876360685847646
+    second: Mana Blast Icon_44
+  - first:
+      213: 4302867805591241523
+    second: Mana Blast Icon_45
+  - first:
+      213: 3770164300278629603
+    second: Mana Blast Icon_46
+  - first:
+      213: -1512482603467786407
+    second: Mana Blast Icon_47
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mana Blast Icon_0
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 430
+        width: 191
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5c9c7ce9e8cdf20800000000000000
+      internalID: 3448788227266823609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mana Blast Icon_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 418
+        width: 180
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88a7e796fc1542a0800000000000000
+      internalID: -6753960220736116595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mana Blast Icon_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 99
+        width: 211
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9aafaa439ede4260800000000000000
+      internalID: 7083843988094954143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mana Blast Icon_3
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 108
+        width: 213
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fba2bb543677fb70800000000000000
+      internalID: 8932738353161481207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
